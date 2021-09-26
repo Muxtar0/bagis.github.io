@@ -1,0 +1,50 @@
+Eliyəcəklırimiz:
+
+1. Logo hazırlamaq
+2. Şəkillər Götürülməlidi
+
+Səhifələr:
+
+1.İndex.html
+  1.Navbar
+  2.Banner 
+  3.Haqqımızda Qısa Məulmat Yanında Şəkil
+  4.Hansı növ köməklər etdiyimiz haqqında yer
+  5.Fəaliətlərimiz haqqında yer
+  6.Bu ay en çok bağış edenler (3-lik)
+  7.Commentler
+  8.Footer//////////////
+
+2.Haqqımızda.html
+  1.Navbar
+  2.Haqqımızda uzun meulmat
+  3.Footer
+
+3.Fəaliyətlərimiz.html
+  1.Navbar
+  2.Fəaliyətlərimiz (Tarixə Görə Filter Ay ve il) Swiper
+  3.Footer//////////////////
+
+4.Bağış Edenler.html
+  1.Navbar
+  2.Filter 1.Bu ay bağış edenler 2.En çox bağış edenler(50 nefer)
+  3.Footer/////////////
+
+5.İtmiş heyvan elanları.html
+  1.Navbar
+  2.Heyvan Elanları (Swiper)
+  3.Footer////////////////////
+
+6.Profile.html
+  iki yerə böl
+  Sağ. 1.Hesabım
+       2.Elanlarım
+       3.Bağışlarım
+       4.Hesabdan Çıxış
+  Sol. Kontentlər
+
+7.Login in.html////////////
+8.Sign in.html/////////////
+
+9.Bagis.html//////////////
+10.Elan sehifesi/////////////

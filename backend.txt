@@ -1,0 +1,5 @@
+1.Elanı Yadda Saxla Kısmı
+2.Elan Yerləştir kısmı
+3.Tarixə Görə Elədiyimiz İşlər Görünəcək
+4.Ən Çox Bağış Edənlər Düşəcək
+5.Bağış Edənlər səhifəsi ilk(100-lük) 
